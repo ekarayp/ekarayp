@@ -34,14 +34,6 @@ I turn messy wireframes into pixel-perfect code, complex API responses into beau
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ekaraya&show_icons=true&theme=nord&hide_border=true" alt="Eka's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaraya&layout=compact&theme=nord&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/ekaray-putra-panjaitan/] (https://www.linkedin.com/in/ekaray-putra-panjaitan/)
 - **Portfolio:** [ekaray.xyz](https://ekaray.xyz/)
