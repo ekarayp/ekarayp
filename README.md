@@ -1,6 +1,6 @@
 # Hi there, I'm Eka Ray 👋
 
-I'm a **UI/UX Obsessed Developer** who believes that software shouldn't just work—it should feel magical. Currently juggling Business Information Technology at BINUS and crafting digital realities as a Full-Stack & UI/UX Developer.
+I'm a **UI/UX Obsessed Developer** who believes that software shouldn't just work, it should feel magical. Currently juggling Business Information Technology at BINUS and crafting digital realities as a Full-Stack & UI/UX Developer.
 
 I turn messy wireframes into pixel-perfect code, complex API responses into beautiful dashboards, and... sometimes I even make massive project like printing machines dance with code. 🖨️✨
 
@@ -35,8 +35,10 @@ I turn messy wireframes into pixel-perfect code, complex API responses into beau
 ---
 
 ### 📊 GitHub Stats
-![Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ekaraya&show_icons=true&theme=nord&hide_border=true" alt="Eka's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaraya&layout=compact&theme=nord&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
 ---
 
