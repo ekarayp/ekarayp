@@ -35,6 +35,6 @@ I rely on Vibe Coding to build fast and intuitive products, but my foundation is
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/ekaray-putra-panjaitan/] (https://www.linkedin.com/in/ekaray-putra-panjaitan/)
+- **LinkedIn:** [linkedin.com/in/ekaray-putra-panjaitan/](https://www.linkedin.com/in/ekaray-putra-panjaitan/)
 - **Portfolio:** [ekaray.xyz](https://ekaray.xyz/)
 - **Email:** ekarayputrapanjaitan@gmail.com
