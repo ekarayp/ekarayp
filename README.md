@@ -1,8 +1,8 @@
 # Hi there, I'm Eka Ray 👋
 
-I'm a **UI/UX Obsessed Developer** who believes that software shouldn't just work, it should feel magical. Currently juggling Business Information Technology at BINUS and crafting digital realities as a Full-Stack & UI/UX Developer.
+I'm a UI/UX Obsessed Developer who believes software shouldn't just work, it should feel magical. Currently juggling Business Information Technology at BINUS and crafting digital realities as a Full-Stack & UI/UX Developer.
 
-I turn messy wireframes into pixel-perfect code, complex API responses into beautiful dashboards, and... sometimes I even make massive project like printing machines dance with code. 🖨️✨
+I rely on Vibe Coding to build fast and intuitive products, but my foundation is rooted in solid architecture. I turn messy wireframes into pixel-perfect code, complex APIs into beautiful dashboards, and even make massive project like making industrial printers dance with code. I know exactly how it works under the hood. 🖨️✨
 
 ### 🛠 Tech Stack & Tools
 
